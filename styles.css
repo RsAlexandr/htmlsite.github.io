@@ -340,7 +340,6 @@ font-family: papyrus;
 
 }
 .aqua_img{
-  border: 1px solid black;
   width: 49%;
   float: left;
   clear: right;
@@ -352,7 +351,6 @@ font-family: papyrus;
   
 }
 .aqua{
-  border: 1px solid black;
   /* clear: right; */
   display: table;
   width: 50%;
@@ -363,7 +361,6 @@ font-family: papyrus;
 }
 
 .hotel_img{
-  border: 1px solid black;
   width: 49%;
   float: left;
   clear: left;
@@ -375,7 +372,6 @@ font-family: papyrus;
   
 }
 .hotel{
-  border: 1px solid black;
   /* clear: right; */
   display: table;
   width: 50%;
@@ -386,7 +382,6 @@ font-family: papyrus;
 }
 
 .party_img{
-  border: 1px solid black;
   width: 49%;
   float: left;
   clear: left;
@@ -398,7 +393,6 @@ font-family: papyrus;
   
 }
 .party{
-  border: 1px solid black;
   /* clear: right; */
   display: table;
   width: 50%;
@@ -409,7 +403,6 @@ font-family: papyrus;
 }
 
 .extreme_img{
-  border: 1px solid black;
   width: 49%;
   float: left;
   clear: left;
@@ -421,7 +414,6 @@ font-family: papyrus;
   
 }
 .extreme{
-  border: 1px solid black;
   /* clear: right; */
   display: table;
   width: 50%;
@@ -435,33 +427,3 @@ font-family: papyrus;
   float: inherit;
   width: 100%;
 }  
-
-
-.homebutton {
-  right: 0px;
-  width: 125px;
-  padding-top: 20px;
-  padding-right: 20px;
-  position: fixed;
-  z-index: 2;}
-
-.homebutton a {
-  display: block;
-  margin-bottom: 1em;
-  padding: 0.3em 1.25em;
-  border: 1px solid #c2c7cc;
-  font-family: 'Open-Sans', sans-serif;
-  font-size: 1.1em;
-  line-height: 1.667em;
-  text-decoration: none;
-  color: #8a9199;
-  cursor: pointer;
-  background: #fff;
-  transition: color,border-color ease 0.3s;
-  border-radius: 2em;
-}
-.homebutton a:hover {
-  border-color: #42B6F3;
-  color: #42B6F3;
-  text-decoration: none;
-}
